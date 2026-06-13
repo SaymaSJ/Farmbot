@@ -19,15 +19,7 @@
 
 The **ML-Based IoT FarmBot** is a smart-farming robot developed as my undergraduate thesis. It combines environmental sensing, IoT cloud connectivity, and a deep-learning model for **plant-disease detection** to help growers monitor crop health and respond early — reducing losses and supporting sustainable farming.
 
-> `[Add 1–2 sentences on your specific motivation — e.g. the crop you targeted (tomato?), the problem in local agriculture you wanted to solve.]`
 
-## 📸 Demo & Gallery
-
-<!-- 📸 ADD PHOTO HERE — a few photos: the build, it working in the field, the dashboard/app -->
-| | |
-|---|---|
-| ![Build](images/build.jpg) | ![In field (https://github.com/SaymaSJ/Farmbot/blob/Master/Farmbot%20(others%20files)/Farmbotfinal.jpg) |
-| *Hardware build* | *Operating in the field* |
 
 ## ✨ Features
 
