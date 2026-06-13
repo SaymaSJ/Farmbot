@@ -13,7 +13,7 @@
 ---
 
 <!-- 📸 ADD PHOTO HERE — main/hero photo of your FarmBot. Replace the line below: -->
-![FarmBot prototype](Farmbot (others files)/Farmbotfinal.jpg)
+![Farmbot (others files)/Farmbotfinal.jpg]
 
 ## 📖 Overview
 
