@@ -13,7 +13,7 @@
 ---
 
 <!-- 📸 ADD PHOTO HERE — main/hero photo of your FarmBot. Replace the line below: -->
-![Prototype](Farmbot (others files)/Farmbotfinal.jpg)
+![Prototype](https://github.com/SaymaSJ/Farmbot/blob/Master/Farmbot%20(others%20files)/Farmbotfinal.jpg)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ The **ML-Based IoT FarmBot** is a smart-farming robot developed as my undergradu
 <!-- 📸 ADD PHOTO HERE — a few photos: the build, it working in the field, the dashboard/app -->
 | | |
 |---|---|
-| ![Build](images/build.jpg) | ![In field](images/field.jpg) |
+| ![Build](images/build.jpg) | ![In field (https://github.com/SaymaSJ/Farmbot/blob/Master/Farmbot%20(others%20files)/Farmbotfinal.jpg) |
 | *Hardware build* | *Operating in the field* |
 
 ## ✨ Features
