@@ -9,13 +9,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-ThingSpeak-009999?style=flat)
 
----
-
-> 💡 **How to add photos to this README**
-> 1. In your repository, create a folder named **`images`**
-> 2. Upload your photos into it (e.g. `images/farmbot.jpg`, `images/results.png`)
-> 3. Each photo spot below is marked **📸 ADD PHOTO HERE** — just put your file name in the `![...](images/...)` line
-> 4. Tip: a short **GIF** of the bot working makes the best first impression
 
 ---
 
